@@ -1,0 +1,15 @@
+检测结果统计报告
+生成时间: 2025-03-17 13:00:15
+
+总检测数量: 338
+平均置信度: 0.528
+
+各类别检测数量:
+bench: 4
+broccoli: 2
+teddy bear: 264
+motorcycle: 6
+sports ball: 14
+person: 42
+banana: 2
+traffic light: 4
